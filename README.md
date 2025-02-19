@@ -15,7 +15,7 @@ In this system, users can create a task with a title, subtitle, and date. Task d
 
 ### Sub-Tasks:
 
-- Task 1: Attend the meeting
+- Task 1: Check emails
 - Task 2: Update project codes
-- Task 3: Check emails
+- Task 3: Attend the meeting
   ![Sub-Tasks List Screenshot](/src/assets/subTasks.png)
